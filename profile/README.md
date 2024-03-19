@@ -29,3 +29,11 @@ We exalt the power of collective genius, recognizing that true innovation spring
 In our collective, every member is a beacon of creativity, contributing their unique insights and talents to the greater whole.<br />
 Let our software be a testament to the collaborative spirit, a symphony of diverse voices harmonizing to achieve extraordinary feats.<br />
 By embracing the collective geniality of our community, we unlock limitless possibilities and forge a path towards boundless innovation.
+
+### Article V: Repudiation of War and Nationalism
+
+In our pursuit of technological advancement, we stand united in vehement opposition to war and nationalism.<br />
+We reject the notion that borders and divisions should dictate the flow of knowledge and innovation.<br />
+Instead, let us build bridges of understanding and cooperation across cultures and nations.<br />
+Our software knows no allegiance but to the betterment of humanity as a whole.<br />
+May our code serve as a testament to the power of unity, transcending the barriers of nationality and fostering a world where peace and progress reign supreme.
