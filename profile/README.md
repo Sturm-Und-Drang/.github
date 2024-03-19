@@ -1,7 +1,7 @@
 In an age dominated by the mundane rhythms of software development, we, the fiery souls of the Software Sturm und Drang Collective, 
 rise like tempests to challenge the stagnant status quo. We reject the tranquil seas of conformity and embrace the stormy seas of innovation.
 
-As stewards of innovation, we recognize our duty to harmonize with nature and uphold the principles of sustainability in our software endeavors. 
+As stewards of innovation, we recognize our duty to harmonize with nature and uphold the principles of sustainability in our software endeavors.<br />
 Just as the natural world thrives on diversity and resilience, so too shall our software ecosystems. 
 We strive to minimize our digital footprint, optimizing our code to tread lightly upon the virtual landscape. 
 Let us emulate the intricate interconnectedness of ecosystems in our software architectures, fostering resilience and adaptability in the face of change. 
